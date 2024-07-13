@@ -1,2 +1,2 @@
-export * from "./group";
-export * from "./template";
+export * from "./group"
+export * from "./template"
